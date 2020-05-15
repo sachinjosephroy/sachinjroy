@@ -1,0 +1,205 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"post",
+				"post_params"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Sachin's Folder/Website/Learning/Bootstrap/Himu/himu",
+		"/C/Sachin's Folder/Website/Learning/Bootstrap/Himu/himu/images"
+	],
+	"file_history":
+	[
+		"/C/Sachin's Folder/Website/Learning/Bootstrap/Himu/himu/index.html",
+		"/C/Sites/simple_cms/config/routes.rb",
+		"/C/Sites/simple_cms/app/views/demo/help.html.erb",
+		"/C/Sites/simple_cms/app/views/demo/index.html.erb",
+		"/C/Sites/simple_cms/db/migrate/20170804171559_create_sections.rb",
+		"/C/Sites/simple_cms/db/migrate/20170804171521_create_pages.rb",
+		"/C/Sites/simple_cms/app/models/page.rb",
+		"/C/Sites/simple_cms/app/models/subject.rb",
+		"/C/Sites/simple_cms/db/migrate/20170804171501_create_subjects.rb",
+		"/C/Sites/simple_cms/db/migrate/20170804155302_create_users.rb",
+		"/C/Sites/simple_cms/app/controllers/demo_controller.rb",
+		"/C/RailsInstaller/Ruby2.2.0/bin/irb.bat",
+		"/C/Sites/simpleblog/config/routes.rb",
+		"/C/Sites/simpleblog/app/views/posts/show.html.erb",
+		"/C/Sites/simpleblog/app/views/comments/_comments.html.erb",
+		"/C/Sites/simpleblog/app/views/comments/_form.html.erb",
+		"/C/Sites/simpleblog/app/controllers/comments_controller.rb",
+		"/C/Sites/simpleblog/app/controllers/posts_controller.rb",
+		"/C/Sites/simpleblog/app/views/posts/edit.html.erb",
+		"/C/Sites/simpleblog/app/views/posts/new.html.erb",
+		"/C/Sites/simpleblog/app/models/post.rb",
+		"/C/Sites/simpleblog/app/views/posts/index.html.erb",
+		"/C/Sites/simpleblog/app/views/layouts/application.html.erb",
+		"/C/Sites/simpleblog/app/controllers/pages_controller.rb",
+		"/C/Sites/simpleblog/app/views/pages/about.html.erb",
+		"/C/Sites/simpleblog/Gemfile"
+	],
+	"find":
+	{
+		"height": 21.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"service",
+			"row text-center",
+			"service",
+			"contact",
+			"'HIMU' ONEPAGE HTML TEMPLATE",
+			"title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 21.0
+	},
+	"input":
+	{
+		"height": 29.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 38.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
